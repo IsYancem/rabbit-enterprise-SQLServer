@@ -1,6 +1,9 @@
 # rabbit-enterprise-SQLServer
+---
+<h1 align="center">Rabbit Enterprise Sales Management System</h1>
 
-<h1>Rabbit Enterprise Sales Management System</h1> 
+---
+
 This project implements a database for a sales management system using SQL Server. The database is designed to manage user roles, sales, and customers.
 
 <h2>Tables</h2>
