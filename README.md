@@ -1,5 +1,3 @@
-# rabbit-enterprise-SQLServer
----
 <h1 align="center">Rabbit Enterprise Sales Management System</h1>
 
 ---
